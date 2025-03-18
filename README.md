@@ -1,2 +1,10 @@
-# SOC-Investigations
-A collection of security investigations, SIEM detections, and threat analysis reports from hands-on labs, including HTB SOC Path, real-world log forensics, and custom security detections.
+# Cybersecurity Case Studies & SOC Investigations  
+🚀 **Author:** Oybek Turaev  
+📌 **Objective:** Documenting real-world security investigations, SIEM use cases, and threat detection research.  
+
+## 🔹 Topics Covered:
+- ✅ Hands-on **SOC investigations** (SIEM detections, log analysis, forensic reports)
+- ✅ **HTB SOC challenge solutions** (threat detection techniques & SIEM workflows)
+- ✅ **SIEM dashboards & threat hunting strategies** (Splunk, Sentinel, ELK Stack)
+
+🔍 Explore my security research below!
